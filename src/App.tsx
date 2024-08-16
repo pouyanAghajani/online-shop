@@ -1,11 +1,5 @@
-import TestComponent from './TestComponent';
-
 const App = () => {
-  return (
-    <div>
-      <TestComponent />
-    </div>
-  );
+  return <div>iran</div>;
 };
 
 export default App;
