@@ -1,7 +1,9 @@
+import TestComponent from './TestComponent';
+
 const App = () => {
   return (
     <div>
-      <h1>iran</h1>
+      <TestComponent />
     </div>
   );
 };
